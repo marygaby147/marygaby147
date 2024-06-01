@@ -1,4 +1,4 @@
-# Proyectos de Ciencias de Datos
+<h1 align=center> # Proyectos de Ciencias de Datos </h1>
 
 Este repositorio contiene una colección de mis proyectos relacionados con ciencias de datos. Cada carpeta representa un proyecto diferente y contiene su propio conjunto de datos, código y resultados.
 
