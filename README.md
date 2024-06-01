@@ -6,7 +6,7 @@ Este repositorio contiene una colección de mis proyectos relacionados con cienc
 
 - `proyecto1/`: Modelo de Machine Learning de recomendación de videojuegos.
   - `codigo/`: Código fuente en Python.
-  - `datos/`: Conjunto de datos utilizado.
+  - `datos/`: Conjunto de datos utilizado en formato parquet.gz.
   - `resultados/`: Resultados y visualizaciones deployement de API utilizando Render.
 - `proyecto2/`: Data Analytics.
   - `codigo/`: Código fuente en Python.
