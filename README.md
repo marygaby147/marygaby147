@@ -12,11 +12,6 @@ Este repositorio contiene una colección de mis proyectos relacionados con cienc
   - `codigo/`: Código fuente en Python.
   - `datos/`: Proceso de Web Scraping para obtener los datasets desde la Página Web del Observatorio de Movilidad y Seguridad Vial (OMSV).
   - `resultados/`: Resultados y visualizaciones en PowerBI.
-  - - `proyecto3/`: Data Analytics.
-  - `codigo/`: Código fuente en Python.
-  - `datos/`: Proceso de Web Scraping para obtener los datasets desde la Página Web del Observatorio de Movilidad y Seguridad Vial (OMSV).
-  - `resultados/`: Resultados y visualizaciones en PowerBI.
-  - ...
 
 ## Requisitos
 
