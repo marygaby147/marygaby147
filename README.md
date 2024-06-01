@@ -30,7 +30,7 @@ Este repositorio contiene una colección de mis proyectos relacionados con cienc
 2. Explora los diferentes proyectos en las carpetas correspondientes.
 3. Ejecuta el código y verifica los resultados.
 
-¡Siéntete libre de agregar más detalles o personalizarlo según tus necesidades! 😊
+¡Si llegaste hasta aquí puedes agregar más detalles o personalizarlo según tus necesidades!
 
 
 <!--
